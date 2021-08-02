@@ -1,2 +1,2 @@
-# Two lines with ARMA
-Use Two Line(MA5 &amp; MA20) as quantative index to trade Rebar Future and plot the result
+# FX Agency Service with AI Decisions
+Use long-term prediction and short-term prediction to provide more affordable FX price to consumer bank's customer, stimulating their purchasing desire of FX.
